@@ -1382,8 +1382,8 @@ Open the app.
 <img width="626" height="413" alt="image" src="https://github.com/user-attachments/assets/3effa20b-c499-432e-8338-c2cd72f7120c" />
 
 Click ``Importar JSON`` (import JSON).  
-Select your ``.json`` file and open it.
-The ``.ttml`` file wil be generated and it will ask you to select the path where you want to save it.
+Select your ``.json`` file and open it.  
+The ``.ttml`` file will be generated and it will ask you to select the path where you want to save it.  
 The name is the same as the original ``.json`` file.
 
 If everything went good, you'll receive this pop-up:
