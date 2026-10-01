@@ -1,4 +1,4 @@
-# JSON to eLRC or TTML, Base 64 to JSON
+# JSON to eLRC or TTML, Base 64 (Gunzip) to JSON
 
 These apps are simple, there is no fancy or complex UI, as well as there are no settings. They only have one function: convert.  
 **1. Choose the file (or paste the Base64 text format).  
