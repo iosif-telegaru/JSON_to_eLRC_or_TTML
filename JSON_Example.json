@@ -1,0 +1,4730 @@
+{
+    "version": "2.1.0",
+    "cacheAllowed": true,
+    "language": "en",
+    "lyrics": [
+        {
+            "startTimeMs": 0,
+            "durationMs": 2725,
+            "words": "",
+            "parts": [],
+            "isInstrumental": true
+        },
+        {
+            "agent": "v2",
+            "durationMs": 3595,
+            "parts": [
+                {
+                    "startTimeMs": 2725,
+                    "durationMs": 207,
+                    "isBackground": false,
+                    "words": "Back",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 2932,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 2932,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "it",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 3131,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 3131,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "up,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 3729,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 3729,
+                    "durationMs": 790,
+                    "isBackground": false,
+                    "words": "subwoofers",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 4519,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 4519,
+                    "durationMs": 208,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 4727,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 4727,
+                    "durationMs": 198,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 4925,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 4925,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "trunk,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 5323,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 5323,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "and",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 5522,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 5522,
+                    "durationMs": 798,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 2725,
+            "words": "Back it up, subwoofers in the trunk, and the",
+            "key": "L1"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 3378,
+            "parts": [
+                {
+                    "startTimeMs": 6320,
+                    "durationMs": 995,
+                    "isBackground": false,
+                    "words": "Gemstones",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 7315,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 7315,
+                    "durationMs": 150,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 7465,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 7465,
+                    "durationMs": 248,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 7713,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 7713,
+                    "durationMs": 202,
+                    "isBackground": false,
+                    "words": "teeth",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 7915,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 7915,
+                    "durationMs": 396,
+                    "isBackground": false,
+                    "words": "go",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 8311,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 8311,
+                    "durationMs": 597,
+                    "isBackground": false,
+                    "words": "dumb,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 8908,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 8908,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "and",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 9100,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 9100,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 6320,
+            "words": "Gemstones in the teeth go dumb, and the",
+            "key": "L2"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 3395,
+            "parts": [
+                {
+                    "startTimeMs": 9698,
+                    "durationMs": 206,
+                    "isBackground": false,
+                    "words": "Light",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 9904,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 9904,
+                    "durationMs": 392,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 10296,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 10296,
+                    "durationMs": 805,
+                    "isBackground": false,
+                    "words": "cigarette",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 11101,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 11101,
+                    "durationMs": 198,
+                    "isBackground": false,
+                    "words": "with",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 11299,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 11299,
+                    "durationMs": 193,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 11492,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 11492,
+                    "durationMs": 1601,
+                    "isBackground": false,
+                    "words": "propane",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 9698,
+            "words": "Light the cigarette with the propane",
+            "key": "L3"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 3585,
+            "parts": [
+                {
+                    "startTimeMs": 13093,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "Honda",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 13491,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 13491,
+                    "durationMs": 391,
+                    "isBackground": false,
+                    "words": "Civic",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 13882,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 13882,
+                    "durationMs": 405,
+                    "isBackground": false,
+                    "words": "doing",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 14287,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 14287,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "donuts",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 14885,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 14885,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 15077,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 15077,
+                    "durationMs": 207,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 15284,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 15284,
+                    "durationMs": 1394,
+                    "isBackground": false,
+                    "words": "rain",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 13093,
+            "words": "Honda Civic doing donuts in the rain",
+            "key": "L4"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 4936,
+            "parts": [
+                {
+                    "startTimeMs": 16678,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "Back",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 16878,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 16878,
+                    "durationMs": 198,
+                    "isBackground": false,
+                    "words": "it",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 17076,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 17076,
+                    "durationMs": 401,
+                    "isBackground": false,
+                    "words": "up,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 17477,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 17477,
+                    "durationMs": 796,
+                    "isBackground": false,
+                    "words": "subwoofers",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 18273,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 18273,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 18472,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 18472,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 18870,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 18870,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "trunk,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 19268,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 19268,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "and",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 19468,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 19468,
+                    "durationMs": 597,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 16325,
+                    "durationMs": 4936,
+                    "isBackground": true,
+                    "words": "(Aah-aah-aah)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 16325,
+            "words": "Back it up, subwoofers in the trunk, and the",
+            "key": "L5"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 7770,
+            "parts": [
+                {
+                    "startTimeMs": 20065,
+                    "durationMs": 999,
+                    "isBackground": false,
+                    "words": "Gemstones",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 21064,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 21064,
+                    "durationMs": 197,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 21261,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 21261,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 21659,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 21659,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "teeth",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 21858,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 21858,
+                    "durationMs": 406,
+                    "isBackground": false,
+                    "words": "go",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 22264,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 22264,
+                    "durationMs": 383,
+                    "isBackground": false,
+                    "words": "dumb,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 22647,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 22647,
+                    "durationMs": 206,
+                    "isBackground": false,
+                    "words": "and",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 22853,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 22853,
+                    "durationMs": 599,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 22452,
+                    "durationMs": 5383,
+                    "isBackground": true,
+                    "words": "(Aah-aah-aah)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 20065,
+            "words": "Gemstones in the teeth go dumb, and the",
+            "key": "L6"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 3586,
+            "parts": [
+                {
+                    "startTimeMs": 23452,
+                    "durationMs": 198,
+                    "isBackground": false,
+                    "words": "Light",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 23650,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 23650,
+                    "durationMs": 399,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 24049,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 24049,
+                    "durationMs": 798,
+                    "isBackground": false,
+                    "words": "cigarette",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 24847,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 24847,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "with",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 25039,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 25039,
+                    "durationMs": 206,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 25245,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 25245,
+                    "durationMs": 1793,
+                    "isBackground": false,
+                    "words": "propane",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 23452,
+            "words": "Light the cigarette with the propane",
+            "key": "L7"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 2987,
+            "parts": [
+                {
+                    "startTimeMs": 27038,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "Honda",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 27436,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 27436,
+                    "durationMs": 399,
+                    "isBackground": false,
+                    "words": "Civic",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 27835,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 27835,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "doing",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 28034,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 28034,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "donuts",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 28233,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 28233,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 28831,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 28831,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 29023,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 29023,
+                    "durationMs": 1002,
+                    "isBackground": false,
+                    "words": "rain",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 29255,
+                    "durationMs": 770,
+                    "isBackground": true,
+                    "words": "(Ah)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 27038,
+            "words": "Honda Civic doing donuts in the rain",
+            "key": "L8"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3388,
+            "parts": [
+                {
+                    "startTimeMs": 30025,
+                    "durationMs": 400,
+                    "isBackground": false,
+                    "words": "She",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 30425,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 30425,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "shares",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 30625,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 30625,
+                    "durationMs": 209,
+                    "isBackground": false,
+                    "words": "a",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 30834,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 30834,
+                    "durationMs": 579,
+                    "isBackground": false,
+                    "words": "room",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 31413,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 31413,
+                    "durationMs": 206,
+                    "isBackground": false,
+                    "words": "with",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 31619,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 31619,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "her",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 31819,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 31819,
+                    "durationMs": 789,
+                    "isBackground": false,
+                    "words": "younger",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 32608,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 32608,
+                    "durationMs": 805,
+                    "isBackground": false,
+                    "words": "brother",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 30025,
+            "words": "She shares a room with her younger brother",
+            "key": "L9"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3586,
+            "parts": [
+                {
+                    "startTimeMs": 33413,
+                    "durationMs": 597,
+                    "isBackground": false,
+                    "words": "Clothes",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 34010,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 34010,
+                    "durationMs": 797,
+                    "isBackground": false,
+                    "words": "secondhand",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 34807,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 34807,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "from",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 34999,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 34999,
+                    "durationMs": 206,
+                    "isBackground": false,
+                    "words": "her",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 35205,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 35205,
+                    "durationMs": 394,
+                    "isBackground": false,
+                    "words": "best",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 35599,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 35599,
+                    "durationMs": 404,
+                    "isBackground": false,
+                    "words": "friend's",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 36003,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 36003,
+                    "durationMs": 996,
+                    "isBackground": false,
+                    "words": "mother",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 33413,
+            "words": "Clothes secondhand from her best friend's mother",
+            "key": "L10"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3314,
+            "parts": [
+                {
+                    "startTimeMs": 36999,
+                    "durationMs": 202,
+                    "isBackground": false,
+                    "words": "Cut",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 37201,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 37201,
+                    "durationMs": 196,
+                    "isBackground": false,
+                    "words": "'em",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 37397,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 37397,
+                    "durationMs": 399,
+                    "isBackground": false,
+                    "words": "all",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 37796,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 37796,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "up,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 38194,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 38194,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "yeah,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 38592,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 38592,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "she",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 38792,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 38792,
+                    "durationMs": 191,
+                    "isBackground": false,
+                    "words": "got",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 38983,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 38983,
+                    "durationMs": 207,
+                    "isBackground": false,
+                    "words": "her",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 39190,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 39190,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "own",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 39389,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 39389,
+                    "durationMs": 924,
+                    "isBackground": false,
+                    "words": "style",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 36999,
+            "words": "Cut 'em all up, yeah, she got her own style",
+            "key": "L11"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3857,
+            "parts": [
+                {
+                    "startTimeMs": 40313,
+                    "durationMs": 527,
+                    "isBackground": false,
+                    "words": "Madonna",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 40840,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 40840,
+                    "durationMs": 153,
+                    "isBackground": false,
+                    "words": "on",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 40993,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 40993,
+                    "durationMs": 207,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 41200,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 41200,
+                    "durationMs": 380,
+                    "isBackground": false,
+                    "words": "wall",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 41580,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 41580,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "next",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 41780,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 41780,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "to",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 42178,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 42178,
+                    "durationMs": 599,
+                    "isBackground": false,
+                    "words": "Destiny's",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 42777,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 42777,
+                    "durationMs": 1393,
+                    "isBackground": false,
+                    "words": "Child",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 40313,
+            "words": "Madonna on the wall next to Destiny's Child",
+            "key": "L12"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3029,
+            "parts": [
+                {
+                    "startTimeMs": 44170,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "And",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 44362,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 44362,
+                    "durationMs": 208,
+                    "isBackground": false,
+                    "words": "she's",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 44570,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 44570,
+                    "durationMs": 596,
+                    "isBackground": false,
+                    "words": "all",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 45166,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 45166,
+                    "durationMs": 1397,
+                    "isBackground": false,
+                    "words": "that",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 45933,
+                    "durationMs": 1266,
+                    "isBackground": true,
+                    "words": "(Eh-eh-eh-eh)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 44170,
+            "words": "And she's all that",
+            "key": "L13"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 4381,
+            "parts": [
+                {
+                    "startTimeMs": 46563,
+                    "durationMs": 396,
+                    "isBackground": false,
+                    "words": "'Cause",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 46959,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 46959,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "she",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 47159,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 47159,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "knows",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 47557,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 47557,
+                    "durationMs": 300,
+                    "isBackground": false,
+                    "words": "she's",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 47857,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 47956,
+                    "durationMs": 397,
+                    "isBackground": false,
+                    "words": "beau",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 48353,
+                    "durationMs": 284,
+                    "isBackground": false,
+                    "words": "ti",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 48637,
+                    "durationMs": 865,
+                    "isBackground": false,
+                    "words": "ful",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 49975,
+                    "durationMs": 969,
+                    "isBackground": true,
+                    "words": "(Ah-ah)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 46563,
+            "words": "'Cause she knows she's beautiful",
+            "key": "L14"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3107,
+            "parts": [
+                {
+                    "startTimeMs": 50944,
+                    "durationMs": 205,
+                    "isBackground": false,
+                    "words": "And",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 51149,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 51149,
+                    "durationMs": 186,
+                    "isBackground": false,
+                    "words": "she's",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 51335,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 51335,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "taught",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 51933,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 51933,
+                    "durationMs": 1601,
+                    "isBackground": false,
+                    "words": "that",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 52785,
+                    "durationMs": 1266,
+                    "isBackground": true,
+                    "words": "(Eh-eh-eh-eh)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 50944,
+            "words": "And she's taught that",
+            "key": "L15"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 2791,
+            "parts": [
+                {
+                    "startTimeMs": 53534,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "Her",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 53726,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 53726,
+                    "durationMs": 803,
+                    "isBackground": false,
+                    "words": "dreams",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 54529,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 54529,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "don't",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 54729,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 54729,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "live",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 54921,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 54921,
+                    "durationMs": 300,
+                    "isBackground": false,
+                    "words": "at",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 55221,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 55326,
+                    "durationMs": 999,
+                    "isBackground": false,
+                    "words": "home",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 53534,
+            "words": "Her dreams don't live at home",
+            "key": "L16"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 2988,
+            "parts": [
+                {
+                    "startTimeMs": 56325,
+                    "durationMs": 596,
+                    "isBackground": false,
+                    "words": "May",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 56921,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "be",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 57319,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 57319,
+                    "durationMs": 317,
+                    "isBackground": false,
+                    "words": "to",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 57636,
+                    "durationMs": 1677,
+                    "isBackground": false,
+                    "words": "night",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 56325,
+            "words": "Maybe tonight",
+            "key": "L17"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3776,
+            "parts": [
+                {
+                    "startTimeMs": 59313,
+                    "durationMs": 396,
+                    "isBackground": false,
+                    "words": "We",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 59709,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 59709,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "don't",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 59908,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 59908,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "gotta",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 60100,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 60100,
+                    "durationMs": 657,
+                    "isBackground": false,
+                    "words": "run",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 60757,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 60757,
+                    "durationMs": 178,
+                    "isBackground": false,
+                    "words": "a",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 60935,
+                    "durationMs": 2154,
+                    "isBackground": false,
+                    "words": "way",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 59313,
+            "words": "We don't gotta run away",
+            "key": "L18"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 2991,
+            "parts": [
+                {
+                    "startTimeMs": 63089,
+                    "durationMs": 406,
+                    "isBackground": false,
+                    "words": "It's",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 63495,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 63495,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "all",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 64093,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 64093,
+                    "durationMs": 365,
+                    "isBackground": false,
+                    "words": "a",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 64458,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 64458,
+                    "durationMs": 1622,
+                    "isBackground": false,
+                    "words": "lie",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 63089,
+            "words": "It's all a lie",
+            "key": "L19"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3982,
+            "parts": [
+                {
+                    "startTimeMs": 66080,
+                    "durationMs": 403,
+                    "isBackground": false,
+                    "words": "The",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 66483,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 66483,
+                    "durationMs": 332,
+                    "isBackground": false,
+                    "words": "baddest",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 66815,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 66815,
+                    "durationMs": 266,
+                    "isBackground": false,
+                    "words": "bitches",
+                    "explicit": true
+                },
+                {
+                    "startTimeMs": 67081,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 67081,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "ain't",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 67281,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 67281,
+                    "durationMs": 198,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 67479,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 67479,
+                    "durationMs": 412,
+                    "isBackground": false,
+                    "words": "L.",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 67891,
+                    "durationMs": 2171,
+                    "isBackground": false,
+                    "words": "A.",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 66080,
+            "words": "The baddest bitches ain't in L.A.",
+            "key": "L20"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 2988,
+            "parts": [
+                {
+                    "startTimeMs": 70062,
+                    "durationMs": 584,
+                    "isBackground": false,
+                    "words": "En",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 70646,
+                    "durationMs": 420,
+                    "isBackground": false,
+                    "words": "joy",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 71066,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 71066,
+                    "durationMs": 313,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 71379,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 71379,
+                    "durationMs": 1671,
+                    "isBackground": false,
+                    "words": "ride",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 70062,
+            "words": "Enjoy the ride",
+            "key": "L21"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3992,
+            "parts": [
+                {
+                    "startTimeMs": 73050,
+                    "durationMs": 206,
+                    "isBackground": false,
+                    "words": "I",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 73256,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 73256,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "know",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 73455,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 73455,
+                    "durationMs": 191,
+                    "isBackground": false,
+                    "words": "that",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 73646,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 73646,
+                    "durationMs": 215,
+                    "isBackground": false,
+                    "words": "you",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 73861,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 73861,
+                    "durationMs": 270,
+                    "isBackground": false,
+                    "words": "might",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 74131,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 74131,
+                    "durationMs": 321,
+                    "isBackground": false,
+                    "words": "wanna",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 74452,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 74452,
+                    "durationMs": 180,
+                    "isBackground": false,
+                    "words": "es",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 74632,
+                    "durationMs": 2410,
+                    "isBackground": false,
+                    "words": "cape",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 73050,
+            "words": "I know that you might wanna escape",
+            "key": "L22"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 2980,
+            "parts": [
+                {
+                    "startTimeMs": 77042,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "It's",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 77440,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 77440,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "all",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 77838,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 77838,
+                    "durationMs": 377,
+                    "isBackground": false,
+                    "words": "a",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 78215,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 78215,
+                    "durationMs": 1807,
+                    "isBackground": false,
+                    "words": "lie",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 77042,
+            "words": "It's all a lie",
+            "key": "L23"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 9914,
+            "parts": [
+                {
+                    "startTimeMs": 80022,
+                    "durationMs": 208,
+                    "isBackground": false,
+                    "words": "The",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 80230,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 80230,
+                    "durationMs": 390,
+                    "isBackground": false,
+                    "words": "baddest",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 80620,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 80620,
+                    "durationMs": 362,
+                    "isBackground": false,
+                    "words": "bitches",
+                    "explicit": true
+                },
+                {
+                    "startTimeMs": 80982,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 80982,
+                    "durationMs": 244,
+                    "isBackground": false,
+                    "words": "ain't",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 81226,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 81226,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 81425,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 81425,
+                    "durationMs": 193,
+                    "isBackground": false,
+                    "words": "L.",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 81618,
+                    "durationMs": 3584,
+                    "isBackground": false,
+                    "words": "A.",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 85250,
+                    "durationMs": 4686,
+                    "isBackground": true,
+                    "words": "(Ah-ah)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 80022,
+            "words": "The baddest bitches ain't in L.A.",
+            "key": "L24"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 3586,
+            "parts": [
+                {
+                    "startTimeMs": 85608,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "Back",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 85807,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 85807,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "it",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 85999,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 85999,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "up,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 86597,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 86597,
+                    "durationMs": 803,
+                    "isBackground": false,
+                    "words": "subwoofers",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 87400,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 87400,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 87600,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 87600,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 87799,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 87799,
+                    "durationMs": 599,
+                    "isBackground": false,
+                    "words": "trunk,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 88398,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 88398,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "and",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 88598,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 88598,
+                    "durationMs": 596,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 85608,
+            "words": "Back it up, subwoofers in the trunk, and the",
+            "key": "L25"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 6984,
+            "parts": [
+                {
+                    "startTimeMs": 89194,
+                    "durationMs": 788,
+                    "isBackground": false,
+                    "words": "Gemstones",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 89982,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 89982,
+                    "durationMs": 210,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 90192,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 90192,
+                    "durationMs": 389,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 90581,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 90581,
+                    "durationMs": 406,
+                    "isBackground": false,
+                    "words": "teeth",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 90987,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 90987,
+                    "durationMs": 205,
+                    "isBackground": false,
+                    "words": "go",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 91192,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 91192,
+                    "durationMs": 585,
+                    "isBackground": false,
+                    "words": "dumb,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 91777,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 91777,
+                    "durationMs": 206,
+                    "isBackground": false,
+                    "words": "and",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 91983,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 91983,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 91894,
+                    "durationMs": 4284,
+                    "isBackground": true,
+                    "words": "(Ah-ah-ah)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 89194,
+            "words": "Gemstones in the teeth go dumb, and the",
+            "key": "L26"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 3597,
+            "parts": [
+                {
+                    "startTimeMs": 92581,
+                    "durationMs": 391,
+                    "isBackground": false,
+                    "words": "Light",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 92972,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 92972,
+                    "durationMs": 206,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 93178,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 93178,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "cigarette",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 93776,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 93776,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "with",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 93975,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 93975,
+                    "durationMs": 410,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 94385,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 94385,
+                    "durationMs": 1793,
+                    "isBackground": false,
+                    "words": "propane",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 92581,
+            "words": "Light the cigarette with the propane",
+            "key": "L27"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 3380,
+            "parts": [
+                {
+                    "startTimeMs": 96178,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "Honda",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 96377,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 96377,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "Civic",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 96975,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 96975,
+                    "durationMs": 399,
+                    "isBackground": false,
+                    "words": "doing",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 97374,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 97374,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "donuts",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 97573,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 97573,
+                    "durationMs": 193,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 97766,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 97766,
+                    "durationMs": 210,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 97976,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 97976,
+                    "durationMs": 983,
+                    "isBackground": false,
+                    "words": "rain",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 98388,
+                    "durationMs": 1170,
+                    "isBackground": true,
+                    "words": "(Ah)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 96178,
+            "words": "Honda Civic doing donuts in the rain",
+            "key": "L28"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3595,
+            "parts": [
+                {
+                    "startTimeMs": 98959,
+                    "durationMs": 599,
+                    "isBackground": false,
+                    "words": "All",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 99558,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 99558,
+                    "durationMs": 207,
+                    "isBackground": false,
+                    "words": "of",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 99765,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 99765,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 99964,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 99964,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "girls",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 100362,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 100362,
+                    "durationMs": 210,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 100572,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 100572,
+                    "durationMs": 387,
+                    "isBackground": false,
+                    "words": "them",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 100959,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 100959,
+                    "durationMs": 648,
+                    "isBackground": false,
+                    "words": "unknown",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 101607,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 101607,
+                    "durationMs": 947,
+                    "isBackground": false,
+                    "words": "cities",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 98959,
+            "words": "All of the girls in them unknown cities",
+            "key": "L29"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3785,
+            "parts": [
+                {
+                    "startTimeMs": 102554,
+                    "durationMs": 397,
+                    "isBackground": false,
+                    "words": "You're",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 102951,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 102951,
+                    "durationMs": 203,
+                    "isBackground": false,
+                    "words": "so",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 103154,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 103154,
+                    "durationMs": 595,
+                    "isBackground": false,
+                    "words": "unique",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 103749,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 103749,
+                    "durationMs": 198,
+                    "isBackground": false,
+                    "words": "and",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 103947,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 103947,
+                    "durationMs": 400,
+                    "isBackground": false,
+                    "words": "your",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 104347,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 104347,
+                    "durationMs": 392,
+                    "isBackground": false,
+                    "words": "face",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 104739,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 104739,
+                    "durationMs": 404,
+                    "isBackground": false,
+                    "words": "so",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 105143,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 105143,
+                    "durationMs": 1196,
+                    "isBackground": false,
+                    "words": "pretty",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 102554,
+            "words": "You're so unique and your face so pretty",
+            "key": "L30"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 1593,
+            "parts": [
+                {
+                    "startTimeMs": 106339,
+                    "durationMs": 191,
+                    "isBackground": false,
+                    "words": "Don't",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 106530,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 106530,
+                    "durationMs": 207,
+                    "isBackground": false,
+                    "words": "look",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 106737,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 106737,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "like",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 106936,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 106936,
+                    "durationMs": 996,
+                    "isBackground": false,
+                    "words": "anyone",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 106339,
+            "words": "Don't look like anyone",
+            "key": "L31"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 1394,
+            "parts": [
+                {
+                    "startTimeMs": 107932,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "You're",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 108132,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 108132,
+                    "durationMs": 195,
+                    "isBackground": false,
+                    "words": "not",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 108327,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 108327,
+                    "durationMs": 403,
+                    "isBackground": false,
+                    "words": "just",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 108730,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 108730,
+                    "durationMs": 596,
+                    "isBackground": false,
+                    "words": "anyone",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 107932,
+            "words": "You're not just anyone",
+            "key": "L32"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3786,
+            "parts": [
+                {
+                    "startTimeMs": 109326,
+                    "durationMs": 194,
+                    "isBackground": false,
+                    "words": "I'd",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 109520,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 109520,
+                    "durationMs": 205,
+                    "isBackground": false,
+                    "words": "rather",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 109725,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 109725,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "be",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 109924,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 109924,
+                    "durationMs": 399,
+                    "isBackground": false,
+                    "words": "a",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 110323,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 110323,
+                    "durationMs": 797,
+                    "isBackground": false,
+                    "words": "nobody",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 111120,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 111120,
+                    "durationMs": 198,
+                    "isBackground": false,
+                    "words": "than",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 111318,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 111318,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "to",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 111517,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 111517,
+                    "durationMs": 201,
+                    "isBackground": false,
+                    "words": "be",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 111718,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 111718,
+                    "durationMs": 295,
+                    "isBackground": false,
+                    "words": "like",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 112013,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 112013,
+                    "durationMs": 1099,
+                    "isBackground": false,
+                    "words": "everyone",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 109326,
+            "words": "I'd rather be a nobody than to be like everyone",
+            "key": "L33"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3085,
+            "parts": [
+                {
+                    "startTimeMs": 113112,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "And",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 113311,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 113311,
+                    "durationMs": 211,
+                    "isBackground": false,
+                    "words": "you're",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 113522,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 113522,
+                    "durationMs": 599,
+                    "isBackground": false,
+                    "words": "all",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 114121,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 114121,
+                    "durationMs": 968,
+                    "isBackground": false,
+                    "words": "that",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 114931,
+                    "durationMs": 1266,
+                    "isBackground": true,
+                    "words": "(Eh-eh-eh-eh)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 113112,
+            "words": "And you're all that",
+            "key": "L34"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 4297,
+            "parts": [
+                {
+                    "startTimeMs": 115493,
+                    "durationMs": 596,
+                    "isBackground": false,
+                    "words": "'Cause",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 116089,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 116089,
+                    "durationMs": 294,
+                    "isBackground": false,
+                    "words": "you",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 116383,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 116383,
+                    "durationMs": 484,
+                    "isBackground": false,
+                    "words": "know",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 116867,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 116867,
+                    "durationMs": 408,
+                    "isBackground": false,
+                    "words": "you're",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 117275,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 117275,
+                    "durationMs": 954,
+                    "isBackground": false,
+                    "words": "beautiful",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 118973,
+                    "durationMs": 817,
+                    "isBackground": true,
+                    "words": "(Ah-ah)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 115493,
+            "words": "'Cause you know you're beautiful",
+            "key": "L35"
+        },
+        {
+            "startTimeMs": 119790,
+            "durationMs": 150,
+            "words": "",
+            "parts": [],
+            "isInstrumental": true
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3109,
+            "parts": [
+                {
+                    "startTimeMs": 119940,
+                    "durationMs": 466,
+                    "isBackground": false,
+                    "words": "And",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 120406,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 120406,
+                    "durationMs": 326,
+                    "isBackground": false,
+                    "words": "you're",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 120732,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 120732,
+                    "durationMs": 393,
+                    "isBackground": false,
+                    "words": "taught",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 121125,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 121125,
+                    "durationMs": 1699,
+                    "isBackground": false,
+                    "words": "that",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 121783,
+                    "durationMs": 1266,
+                    "isBackground": true,
+                    "words": "(Eh-eh-eh-eh)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 119940,
+            "words": "And you're taught that",
+            "key": "L36"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 2159,
+            "parts": [
+                {
+                    "startTimeMs": 122817,
+                    "durationMs": 360,
+                    "isBackground": false,
+                    "words": "Your",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 123177,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 123177,
+                    "durationMs": 504,
+                    "isBackground": false,
+                    "words": "dreams",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 123681,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 123681,
+                    "durationMs": 431,
+                    "isBackground": false,
+                    "words": "don't",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 124112,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 124112,
+                    "durationMs": 224,
+                    "isBackground": false,
+                    "words": "live",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 124336,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 124336,
+                    "durationMs": 180,
+                    "isBackground": false,
+                    "words": "at",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 124516,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 124516,
+                    "durationMs": 460,
+                    "isBackground": false,
+                    "words": "home",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 122817,
+            "words": "Your dreams don't live at home",
+            "key": "L37"
+        },
+        {
+            "startTimeMs": 124976,
+            "durationMs": 314,
+            "words": "",
+            "parts": [],
+            "isInstrumental": true
+        },
+        {
+            "agent": "v1",
+            "durationMs": 2988,
+            "parts": [
+                {
+                    "startTimeMs": 125290,
+                    "durationMs": 596,
+                    "isBackground": false,
+                    "words": "May",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 125886,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "be",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 126284,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 126284,
+                    "durationMs": 317,
+                    "isBackground": false,
+                    "words": "to",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 126601,
+                    "durationMs": 1677,
+                    "isBackground": false,
+                    "words": "night",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 125290,
+            "words": "Maybe tonight",
+            "key": "L38"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3776,
+            "parts": [
+                {
+                    "startTimeMs": 128278,
+                    "durationMs": 396,
+                    "isBackground": false,
+                    "words": "We",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 128674,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 128674,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "don't",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 128873,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 128873,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "gotta",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 129065,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 129065,
+                    "durationMs": 657,
+                    "isBackground": false,
+                    "words": "run",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 129722,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 129722,
+                    "durationMs": 178,
+                    "isBackground": false,
+                    "words": "a",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 129900,
+                    "durationMs": 2154,
+                    "isBackground": false,
+                    "words": "way",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 128278,
+            "words": "We don't gotta run away",
+            "key": "L39"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 2991,
+            "parts": [
+                {
+                    "startTimeMs": 132054,
+                    "durationMs": 406,
+                    "isBackground": false,
+                    "words": "It's",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 132460,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 132460,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "all",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 133058,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 133058,
+                    "durationMs": 365,
+                    "isBackground": false,
+                    "words": "a",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 133423,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 133423,
+                    "durationMs": 1622,
+                    "isBackground": false,
+                    "words": "lie",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 132054,
+            "words": "It's all a lie",
+            "key": "L40"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3982,
+            "parts": [
+                {
+                    "startTimeMs": 135045,
+                    "durationMs": 403,
+                    "isBackground": false,
+                    "words": "The",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 135448,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 135448,
+                    "durationMs": 332,
+                    "isBackground": false,
+                    "words": "baddest",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 135780,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 135780,
+                    "durationMs": 266,
+                    "isBackground": false,
+                    "words": "bitches",
+                    "explicit": true
+                },
+                {
+                    "startTimeMs": 136046,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 136046,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "ain't",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 136246,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 136246,
+                    "durationMs": 198,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 136444,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 136444,
+                    "durationMs": 412,
+                    "isBackground": false,
+                    "words": "L.",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 136856,
+                    "durationMs": 2171,
+                    "isBackground": false,
+                    "words": "A.",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 135045,
+            "words": "The baddest bitches ain't in L.A.",
+            "key": "L41"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 2988,
+            "parts": [
+                {
+                    "startTimeMs": 139027,
+                    "durationMs": 584,
+                    "isBackground": false,
+                    "words": "En",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 139611,
+                    "durationMs": 420,
+                    "isBackground": false,
+                    "words": "joy",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 140031,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 140031,
+                    "durationMs": 313,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 140344,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 140344,
+                    "durationMs": 1671,
+                    "isBackground": false,
+                    "words": "ride",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 139027,
+            "words": "Enjoy the ride",
+            "key": "L42"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 3992,
+            "parts": [
+                {
+                    "startTimeMs": 142015,
+                    "durationMs": 206,
+                    "isBackground": false,
+                    "words": "I",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 142221,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 142221,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "know",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 142420,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 142420,
+                    "durationMs": 191,
+                    "isBackground": false,
+                    "words": "that",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 142611,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 142611,
+                    "durationMs": 215,
+                    "isBackground": false,
+                    "words": "you",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 142826,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 142826,
+                    "durationMs": 270,
+                    "isBackground": false,
+                    "words": "might",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 143096,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 143096,
+                    "durationMs": 321,
+                    "isBackground": false,
+                    "words": "wanna",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 143417,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 143417,
+                    "durationMs": 180,
+                    "isBackground": false,
+                    "words": "es",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 143597,
+                    "durationMs": 2410,
+                    "isBackground": false,
+                    "words": "cape",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 142015,
+            "words": "I know that you might wanna escape",
+            "key": "L43"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 2980,
+            "parts": [
+                {
+                    "startTimeMs": 146007,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "It's",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 146405,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 146405,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "all",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 146803,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 146803,
+                    "durationMs": 377,
+                    "isBackground": false,
+                    "words": "a",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 147180,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 147180,
+                    "durationMs": 1807,
+                    "isBackground": false,
+                    "words": "lie",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 146007,
+            "words": "It's all a lie",
+            "key": "L44"
+        },
+        {
+            "agent": "v1",
+            "durationMs": 9914,
+            "parts": [
+                {
+                    "startTimeMs": 148987,
+                    "durationMs": 208,
+                    "isBackground": false,
+                    "words": "The",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 149195,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 149195,
+                    "durationMs": 390,
+                    "isBackground": false,
+                    "words": "baddest",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 149585,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 149585,
+                    "durationMs": 340,
+                    "isBackground": false,
+                    "words": "bitches",
+                    "explicit": true
+                },
+                {
+                    "startTimeMs": 149925,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 149925,
+                    "durationMs": 266,
+                    "isBackground": false,
+                    "words": "ain't",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 150191,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 150191,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 150390,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 150390,
+                    "durationMs": 193,
+                    "isBackground": false,
+                    "words": "L.",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 150583,
+                    "durationMs": 3584,
+                    "isBackground": false,
+                    "words": "A.",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 154214,
+                    "durationMs": 4687,
+                    "isBackground": true,
+                    "words": "(Ah-ah)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 148987,
+            "words": "The baddest bitches ain't in L.A.",
+            "key": "L45"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 3586,
+            "parts": [
+                {
+                    "startTimeMs": 154566,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "Back",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 154766,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 154766,
+                    "durationMs": 191,
+                    "isBackground": false,
+                    "words": "it",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 154957,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 154957,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "up,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 155555,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 155555,
+                    "durationMs": 804,
+                    "isBackground": false,
+                    "words": "subwoofers",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 156359,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 156359,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 156559,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 156559,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 156758,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 156758,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "trunk,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 157356,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 157356,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "and",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 157556,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 157556,
+                    "durationMs": 596,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 154566,
+            "words": "Back it up, subwoofers in the trunk, and the",
+            "key": "L46"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 6984,
+            "parts": [
+                {
+                    "startTimeMs": 158152,
+                    "durationMs": 789,
+                    "isBackground": false,
+                    "words": "Gemstones",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 158941,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 158941,
+                    "durationMs": 210,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 159151,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 159151,
+                    "durationMs": 389,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 159540,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 159540,
+                    "durationMs": 405,
+                    "isBackground": false,
+                    "words": "teeth",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 159945,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 159945,
+                    "durationMs": 206,
+                    "isBackground": false,
+                    "words": "go",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 160151,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 160151,
+                    "durationMs": 584,
+                    "isBackground": false,
+                    "words": "dumb,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 160735,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 160735,
+                    "durationMs": 206,
+                    "isBackground": false,
+                    "words": "and",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 160941,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 160941,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 160852,
+                    "durationMs": 4284,
+                    "isBackground": true,
+                    "words": "(Ah-ah-ah)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 158152,
+            "words": "Gemstones in the teeth go dumb, and the",
+            "key": "L47"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 3597,
+            "parts": [
+                {
+                    "startTimeMs": 161539,
+                    "durationMs": 392,
+                    "isBackground": false,
+                    "words": "Light",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 161931,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 161931,
+                    "durationMs": 205,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 162136,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 162136,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "cigarette",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 162734,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 162734,
+                    "durationMs": 200,
+                    "isBackground": false,
+                    "words": "with",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 162934,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 162934,
+                    "durationMs": 410,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 163344,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 163344,
+                    "durationMs": 1792,
+                    "isBackground": false,
+                    "words": "propane",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 161931,
+                    "durationMs": 616,
+                    "isBackground": true,
+                    "words": "(Yeah,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 162547,
+                    "durationMs": 797,
+                    "isBackground": true,
+                    "words": "yeah,",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 163555,
+                    "durationMs": 462,
+                    "isBackground": true,
+                    "words": "oh-",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 164017,
+                    "durationMs": 1119,
+                    "isBackground": true,
+                    "words": "oh)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 161539,
+            "words": "Light the cigarette with the propane",
+            "key": "L48"
+        },
+        {
+            "agent": "v2",
+            "durationMs": 2782,
+            "parts": [
+                {
+                    "startTimeMs": 165136,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "Honda",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 165335,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 165335,
+                    "durationMs": 598,
+                    "isBackground": false,
+                    "words": "Civic",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 165933,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 165933,
+                    "durationMs": 399,
+                    "isBackground": false,
+                    "words": "doing",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 166332,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 166332,
+                    "durationMs": 199,
+                    "isBackground": false,
+                    "words": "donuts",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 166531,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 166531,
+                    "durationMs": 193,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 166724,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 166724,
+                    "durationMs": 210,
+                    "isBackground": false,
+                    "words": "the",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 166934,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 166934,
+                    "durationMs": 984,
+                    "isBackground": false,
+                    "words": "rain",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 165136,
+            "words": "Honda Civic doing donuts in the rain",
+            "key": "L49"
+        },
+        {
+            "agent": "v2000",
+            "durationMs": 6601,
+            "parts": [
+                {
+                    "startTimeMs": 166683,
+                    "durationMs": 597,
+                    "isBackground": false,
+                    "words": "May",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 167280,
+                    "durationMs": 398,
+                    "isBackground": false,
+                    "words": "be",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 167678,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 167678,
+                    "durationMs": 317,
+                    "isBackground": false,
+                    "words": "to",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 167995,
+                    "durationMs": 1676,
+                    "isBackground": false,
+                    "words": "night",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 169000,
+                    "durationMs": 4284,
+                    "isBackground": true,
+                    "words": "(Ah-ah-ah)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 166683,
+            "words": "Maybe tonight",
+            "key": "L50"
+        },
+        {
+            "agent": "v2000",
+            "durationMs": 5959,
+            "parts": [
+                {
+                    "startTimeMs": 169671,
+                    "durationMs": 397,
+                    "isBackground": false,
+                    "words": "We",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 170068,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 170068,
+                    "durationMs": 198,
+                    "isBackground": false,
+                    "words": "don't",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 170266,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 170266,
+                    "durationMs": 192,
+                    "isBackground": false,
+                    "words": "gotta",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 170458,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 170458,
+                    "durationMs": 657,
+                    "isBackground": false,
+                    "words": "run",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 171115,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 171115,
+                    "durationMs": 179,
+                    "isBackground": false,
+                    "words": "a",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 171294,
+                    "durationMs": 2153,
+                    "isBackground": false,
+                    "words": "way",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 171980,
+                    "durationMs": 3650,
+                    "isBackground": true,
+                    "words": "(No)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 169671,
+            "words": "We don't gotta run away",
+            "key": "L51"
+        },
+        {
+            "agent": "v2000",
+            "durationMs": 3014,
+            "parts": [
+                {
+                    "startTimeMs": 173447,
+                    "durationMs": 407,
+                    "isBackground": false,
+                    "words": "It's",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 173854,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 173854,
+                    "durationMs": 597,
+                    "isBackground": false,
+                    "words": "all",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 174451,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 174451,
+                    "durationMs": 366,
+                    "isBackground": false,
+                    "words": "a",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 174817,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 174817,
+                    "durationMs": 1622,
+                    "isBackground": false,
+                    "words": "lie",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 0,
+                    "durationMs": 0,
+                    "isBackground": true,
+                    "words": "",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 175949,
+                    "durationMs": 512,
+                    "isBackground": true,
+                    "words": "(Oh)",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 173447,
+            "words": "It's all a lie",
+            "key": "L52"
+        },
+        {
+            "agent": "v2000",
+            "durationMs": 5527,
+            "parts": [
+                {
+                    "startTimeMs": 176439,
+                    "durationMs": 402,
+                    "isBackground": false,
+                    "words": "The",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 176841,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 176841,
+                    "durationMs": 332,
+                    "isBackground": false,
+                    "words": "baddest",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 177173,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 177173,
+                    "durationMs": 345,
+                    "isBackground": false,
+                    "words": "bitches",
+                    "explicit": true
+                },
+                {
+                    "startTimeMs": 177518,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 177518,
+                    "durationMs": 207,
+                    "isBackground": false,
+                    "words": "ain't",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 177725,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 177725,
+                    "durationMs": 262,
+                    "isBackground": false,
+                    "words": "in",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 177987,
+                    "durationMs": 0,
+                    "isBackground": false,
+                    "words": " "
+                },
+                {
+                    "startTimeMs": 177987,
+                    "durationMs": 262,
+                    "isBackground": false,
+                    "words": "L.",
+                    "explicit": false
+                },
+                {
+                    "startTimeMs": 178249,
+                    "durationMs": 3717,
+                    "isBackground": false,
+                    "words": "A.",
+                    "explicit": false
+                }
+            ],
+            "startTimeMs": 176439,
+            "words": "The baddest bitches ain't in L.A.",
+            "key": "L53"
+        },
+        {
+            "startTimeMs": 181966,
+            "durationMs": 3250,
+            "words": "",
+            "parts": [],
+            "isInstrumental": true
+        }
+    ],
+    "musicVideoSynced": false,
+    "source": "betterlyrics.org",
+    "sourceHref": "https://betterlyrics.org"
+}
