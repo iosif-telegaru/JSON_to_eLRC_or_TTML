@@ -1533,7 +1533,7 @@ And here we have it (first full chorus and first verse):
         <span ttm:role="x-bg">
             <span begin="00:00:45.93" end="00:00:47.20">(Eh-eh-eh-eh)</span>
         </span>
-      </p><
+      </p>
       <p begin="00:00:46.56" end="00:00:50.94" ttm:agent="v1">
         <span begin="00:00:46.56" end="00:00:46.96">'Cause </span>
         <span begin="00:00:46.96" end="00:00:47.16">she </span>
